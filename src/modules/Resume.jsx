@@ -21,11 +21,9 @@ export default function Resume() {
         <div className="timeline">
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
-              SENIOR SOFTWARE DEVELOPER at PAIDBY
+              SENIOR SOFTWARE DEVELOPER at PAIDBY (fulltime)
             </h5>
-            <span className="timeline__period">
-              JANUARY 2023 — Present (Contract)
-            </span>
+            <span className="timeline__period">SEPTEMBER 2023 — Present</span>
             <p className="timeline__description">
               • Working on platform operations.
               <br />
@@ -70,7 +68,7 @@ export default function Resume() {
               SENIOR SOFTWARE DEVELOPER at HACKPIY BLOCKCHAIN SOLUTIONS
             </h5>
             <span className="timeline__period">
-              Apr 2022 - Present (fulltime)
+              APRIL 2022 - Present (fulltime)
             </span>
             <p className="timeline__description">
               • Assembled competent workforce to execute company vision.
@@ -96,7 +94,7 @@ export default function Resume() {
               JUNIOR SOFTWARE DEVELOPER at HACKPIY BLOCKCHAIN SOLUTIONS
             </h5>
             <span className="timeline__period">
-              APRIL 2021 — APRIL 2021 (INTERN)
+              APRIL 2021 — APRIL 2022 (INTERN)
             </span>
             <p className="timeline__description">
               • Developer Intern for 1 year.
