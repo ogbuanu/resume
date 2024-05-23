@@ -47,7 +47,7 @@ export default function Sidebar() {
               data-placement="top"
               title="WhatsApp"
             >
-              <a href={`whatsapp://send?phone=${profile.phones.airtel}`}>
+              <a href={`whatsapp://send?phone=${profile.phones.mtn}`}>
                 <i className="fab fa-whatsapp mr-2"></i>WhatsApp
               </a>
             </li>
@@ -57,9 +57,9 @@ export default function Sidebar() {
               data-placement="top"
               title="Phone"
             >
-              <a href={`tel://${profile.phones.airtel}`}>
+              <a href={`tel://${profile.phones.mtn}`}>
                 <i className="fa fa-phone mr-2"></i>
-                {`${profile.phones.airtel}`}
+                {`${profile.phones.mtn}`}
               </a>
             </li>
           </ul>

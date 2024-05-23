@@ -1,6 +1,6 @@
 {
   "homepage": ".",
-  "name": "ugoson",
+  "name": "ikenna-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages":"^3.2.3"
+    "gh-pages": "^3.2.3"
   }
 }

@@ -42,7 +42,29 @@ export default function Resume() {
             </i>
             <hr />
           </article>
-
+          <article className="timeline__item">
+            <h5 className="title title--h5 timeline__title">
+              SENIOR SOFTWARE DEVELOPER at Sblend (Contract)
+            </h5>
+            <span className="timeline__period">
+              JANUARY 2022 — SETEMBER 2022
+            </span>
+            <p className="timeline__description">
+              • Working on platform operations.
+              <br />
+              • Developed mobile friendly web application with payment
+              integrations.
+              <br />
+              • Working with developers to design algorithms and flowcharts.
+              <br />
+            </p>
+            <i className="text-muted">
+              <small>
+                - Using JavaScript, TypeScript, Next.js, Redux, HTML5, CSS3
+              </small>
+            </i>
+            <hr />
+          </article>
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
               SENIOR SOFTWARE DEVELOPER at HACKPIY BLOCKCHAIN SOLUTIONS
