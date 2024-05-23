@@ -122,7 +122,7 @@ const profile = {
       category: "Blockchain",
       description:
         "Solmana Launchpad is a web3 gaming-focused and AI platforms that offers decentralized projects the opportunity to raise and trade capital.",
-      link: "https://loooty.com/",
+      link: "https://solmana.org/",
       disabled: false,
       stack: "Reactjs, Typescript, Laravel, Rust, Solana, Web3.js",
     },
