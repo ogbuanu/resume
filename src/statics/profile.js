@@ -117,6 +117,16 @@ const profile = {
   ],
   portfolio: [
     {
+      image: "assets/images/digitsave.png",
+      title: "Digit Save (Development's Phase)",
+      category: "Blockchain",
+      description:
+        "Digitsave leverages cutting-edge blockchain technology to offer a revolutionary approach to saving and investing, addressing the limitations of traditional savings platforms.",
+      link: "https://digitsave.vercel.app/",
+      disabled: false,
+      stack: "Reactjs, Typescript, Next.js, Solidity, Web3.js",
+    },
+    {
       image: "assets/images/solmana.png",
       title: "Solmana Launchpad",
       category: "Blockchain",
@@ -144,6 +154,25 @@ const profile = {
       link: "https://codelandcs.com/",
       disabled: false,
       stack: "Reactjs, Typescript, Lumen",
+    },
+    {
+      image: "assets/images/skitebox.png",
+      title: "Skitebox (Development's Phase)",
+      category: "Escrow, Sales",
+      description:
+        "Buy and Sell Event Tickets on Skitebox.We meet you at the event",
+      link: "https://skitebox.com/",
+      disabled: false,
+      stack: "Nextjs, Typescript.js, React.js, Laravel",
+    },
+    {
+      image: "assets/images/paidby-v2.png",
+      title: "PaidBy V2 (Development's Phase)",
+      category: "Escrow",
+      description: "Payment Processing Secured with Engagement Contract",
+      link: "https://ui-dev.paidby.app/",
+      disabled: false,
+      stack: "Nextjs, Typescript.js, Web3.js, Lumen",
     },
     {
       image: "assets/images/paidby.png",
