@@ -118,7 +118,7 @@ const profile = {
   portfolio: [
     {
       image: "assets/images/digitsave.png",
-      title: "Digit Save (Development's Phase)",
+      title: "Digit Save",
       category: "Blockchain",
       description:
         "Digitsave leverages cutting-edge blockchain technology to offer a revolutionary approach to saving and investing, addressing the limitations of traditional savings platforms.",
@@ -157,7 +157,7 @@ const profile = {
     },
     {
       image: "assets/images/skitebox.png",
-      title: "Skitebox (Development's Phase)",
+      title: "Skitebox",
       category: "Escrow, Sales",
       description:
         "Buy and Sell Event Tickets on Skitebox.We meet you at the event",
@@ -167,7 +167,7 @@ const profile = {
     },
     {
       image: "assets/images/paidby-v2.png",
-      title: "PaidBy V2 (Development's Phase)",
+      title: "PaidBy V2",
       category: "Escrow",
       description: "Payment Processing Secured with Engagement Contract",
       link: "https://ui-dev.paidby.app/",
@@ -198,6 +198,26 @@ const profile = {
       category: "Blockchain",
       description: "A Decetralized Exchange currently running ICO",
       link: "https://zippa.finance/",
+      disabled: true,
+      stack: "Nextjs, chakra-ui, Ethers.js, Solidity, Binance SmartChain",
+    },
+    {
+      image: "assets/images/witty.png",
+      title: "Witty Tech",
+      category: "Blockchain",
+      description:
+        "WITTY is a blockchain fintech building the financial operating system for Businesses and Web3 Natives.",
+      link: "https://wittytech.io/",
+      disabled: true,
+      stack: "Nextjs, Ethers.js, Solidity, Bianance SmartChain",
+    },
+    {
+      image: "assets/images/lazzerpay.jpeg",
+      title: "Lazzerpay",
+      category: "Blockchain",
+      description:
+        "Lazerpay helps businesses receive crypto payments from their customers.",
+      link: "https://lazerpay.finance/",
       disabled: true,
       stack: "Nextjs, chakra-ui, Ethers.js, Solidity, Binance SmartChain",
     },
