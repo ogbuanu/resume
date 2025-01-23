@@ -1,6 +1,6 @@
 const profile = {
   name: "Ogbuanu Ikenna John",
-  role: "Fullstack Web Developer",
+  role: "Senior Blockchain Developer",
   email: "ogbuanuikenna66@gmail.com",
   picture: "assets/images/ikenna_ogbuanu.jpg",
   website: "",
@@ -8,7 +8,7 @@ const profile = {
     airtel: "+2347062768857",
     mtn: "+2348145279540",
   },
-  bio: "Hi, my name is Ikenna Ogbuanu. A strong test-driven software developer.With an over 3 years experience in front-end and backend development and proficient in modern JavaScript stacks using tools like TypeScript, JavaScript, React/Redux, Nodejs, Nextjs, Express, Mongodb, AWS, PHP and MySQL.",
+  bio: "Highly skilled Blockchain Engineer with 4 years of experience in designing, developing, and scaling decentralized applications and smartcontracts using Solidity, Rust, and Node.js. Proven track record in delivering diverse blockchain solutions, including multi-currency wallet systems and fintech applications. Adept at off-chain API development, creating RESTful APIs, integrating third-party Web3 services, and implementing secure payment gateways to streamline user transactions.",
   features: [
     {
       image: "assets/icons/browser-web-development-svgrepo-com.svg",
@@ -47,14 +47,19 @@ const profile = {
         },
         {
           language: "Rust",
-          level: 50,
+          level: 80,
         },
         {
           language: "Laravel",
           level: 90,
         },
+        {
+          language: "Solidity",
+          level: 95,
+        },
       ],
     },
+
     {
       title: "Frontend",
       list: [
@@ -71,7 +76,7 @@ const profile = {
           level: 98,
         },
         {
-          language: "Pure JQuery JS",
+          language: "Ethers.js",
           level: 95,
         },
         {
