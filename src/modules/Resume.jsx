@@ -21,18 +21,10 @@ export default function Resume() {
         <div className="timeline">
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
-              SENIOR SOFTWARE DEVELOPER at PAIDBY (fulltime)
+              Back End Developer & Smart Contract Engineer at MOBI
             </h5>
-            <span className="timeline__period">SEPTEMBER 2023 — Present</span>
-            <p className="timeline__description">
-              • Working on platform operations.
-              <br />
-              • Developed mobile friendly web application with payment
-              integrations.
-              <br />
-              • Working with developers to design algorithms and flowcharts.
-              <br />
-            </p>
+            <span className="timeline__period">MAR 2025 — PRESENT</span>
+            <p className="timeline__description"></p>
             <i className="text-muted">
               <small>
                 - Using JavaScript, TypeScript, Next.js, Redux, HTML5, CSS3
@@ -42,20 +34,10 @@ export default function Resume() {
           </article>
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
-              SENIOR SOFTWARE DEVELOPER at Sblend (Contract)
+              SENIOR BLOCKCHAIN ENGINEER at DIGITPAY
             </h5>
-            <span className="timeline__period">
-              JANUARY 2022 — SETEMBER 2022
-            </span>
-            <p className="timeline__description">
-              • Working on platform operations.
-              <br />
-              • Developed mobile friendly web application with payment
-              integrations.
-              <br />
-              • Working with developers to design algorithms and flowcharts.
-              <br />
-            </p>
+            <span className="timeline__period">MAR 2024 — Mar 2025</span>
+            <p className="timeline__description"></p>
             <i className="text-muted">
               <small>
                 - Using JavaScript, TypeScript, Next.js, Redux, HTML5, CSS3
@@ -65,36 +47,24 @@ export default function Resume() {
           </article>
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
-              SENIOR BLOCKCHAIN DEVELOPER at WITTY TECH
+              SOFTWARE DEVELOPER at PAIDBY (fulltime)
             </h5>
-            <span className="timeline__period">
-              APRIL 2022 - Present (fulltime)
-            </span>
-            <p className="timeline__description">
-              <br />
-              • Built the Witty Staking smart contract, providing users with the
-              ability to earn rewards by staking Witty tokens.
-              <br />
-              • Implemented functionality for users to earn BUSD (Binance USD)
-              from the Arbitrage Contract, enhancing the earning potential and
-              utility of the Witty Token.
-              <br />
-              • Implemented a fee splitting mechanism within the Witty LP Smart
-              Contract and implemented features to distribute fees among the
-              community, liquidity providers, and Witty stakers.
-              <br />
-              • Implemented functionality for users to earn BUSD (Binance USD)
-              from the Arbitrage Contract, enhancing the earning potential and
-              utility of the Witty Token.
-              <br />
-              • Reviewed and Ensured that the front-end design was intuitive and
-              user-friendly, optimizing user engagement and retention.
-              <br />
-              • Assisted in Witty UI Smart Contract Integration using Wagmi and
-              rainbow kit, enhancing the user experience and enabling seamless
-              trading of Witty tokens.
-              <br />
-            </p>
+            <span className="timeline__period">NOV 2022 — Mar 2025</span>
+            <p className="timeline__description"></p>
+            <i className="text-muted">
+              <small>
+                - Using JavaScript, TypeScript, Next.js, Redux, HTML5, CSS3
+              </small>
+            </i>
+            <hr />
+          </article>
+
+          <article className="timeline__item">
+            <h5 className="title title--h5 timeline__title">
+              BLOCKCHAIN DEVELOPER at WITTY TECH
+            </h5>
+            <span className="timeline__period">APRIL 2022 - MAR 2023</span>
+            <p className="timeline__description"></p>
 
             <i className="text-muted">
               <small>
@@ -107,25 +77,25 @@ export default function Resume() {
           </article>
           <article className="timeline__item">
             <h5 className="title title--h5 timeline__title">
-              SENIOR BLOCKCHAIN DEVELOPER at LAZERPAY
+              SENIOR SOFTWARE DEVELOPER at Sblend (Contract)
             </h5>
-            <span className="timeline__period">OCT 2021 — JUNE 2022</span>
+            <span className="timeline__period">
+              JANUARY 2022 — SETEMBER 2022
+            </span>
+            <p className="timeline__description"></p>
+            <i className="text-muted">
+              <small>
+                - Using JavaScript, TypeScript, Next.js, Redux, HTML5, CSS3
+              </small>
+            </i>
+            <hr />
+          </article>
+          <article className="timeline__item">
+            <h5 className="title title--h5 timeline__title">
+              SOFTWARE ENGINEER at LAZERPAY
+            </h5>
+            <span className="timeline__period">SEPT 2021 — APR 2022</span>
             <p className="timeline__description">
-              • Developed an escrow smart contract for facilitating secure
-              peer-to-peer and business transactions.
-              <br />
-              • Collaborated with stakeholders to define requirements and ensure
-              user-friendly implementation.
-              <br />
-              • Developed a trustless escrow smart contract to enhance payment
-              security in decentralized applications.
-              <br />
-              • Automated fund release processes with conditional logic using
-              Solidity smart contracts.
-              <br />
-              • Integrated blockchain features with web3 tools like Ethers.js,
-              Web3.js for real-time user interaction.
-              <br />
               <i className="text-muted">
                 <small>
                   - Using Nodejs · React.js · GraphQL · Next.js · Solidity ·

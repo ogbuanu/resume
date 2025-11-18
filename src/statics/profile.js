@@ -8,7 +8,7 @@ const profile = {
     airtel: "+2347062768857",
     mtn: "+2348145279540",
   },
-  bio: "Highly skilled Blockchain Engineer with 4 years of experience in designing, developing, and scaling decentralized applications and smartcontracts using Solidity, Rust, and Node.js. Proven track record in delivering diverse blockchain solutions, including multi-currency wallet systems and fintech applications. Adept at off-chain API development, creating RESTful APIs, integrating third-party Web3 services, and implementing secure payment gateways to streamline user transactions.",
+  bio: "Highly skilled Blockchain Engineer with 5 years of experience in designing, developing, and scaling decentralized applications and smartcontracts using Solidity, Rust, and Node.js. Proven track record in delivering diverse blockchain solutions, including multi-currency wallet systems and fintech applications. Adept at off-chain API development, creating RESTful APIs, integrating third-party Web3 services, and implementing secure payment gateways to streamline user transactions.",
   features: [
     {
       image: "assets/icons/browser-web-development-svgrepo-com.svg",
@@ -34,7 +34,7 @@ const profile = {
       title: "Backend",
       list: [
         {
-          language: "Advanced PHP",
+          language: "Web3",
           level: 95,
         },
         {
@@ -50,7 +50,7 @@ const profile = {
           level: 80,
         },
         {
-          language: "Laravel",
+          language: "Solana",
           level: 90,
         },
         {
